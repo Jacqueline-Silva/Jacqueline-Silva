@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/Jacqueline-Silva">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jacqueline-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacqueline-Silva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jacqueline-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacqueline-Silva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   ##
