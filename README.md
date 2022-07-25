@@ -6,15 +6,14 @@
 <div align="center">
   <a href="https://github.com/Jacqueline-Silva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jacqueline-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacqueline-Silva&theme=dracula"/>
 </div>
 
   ##
 
-<div>
-
-  <a href="https://www.linkedin.com/in/jacqueline-sxds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+[![microsoft](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](jacque.sx@hotmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacqueline-sxds/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jacqueline-Silva)
   
 
 <!--
